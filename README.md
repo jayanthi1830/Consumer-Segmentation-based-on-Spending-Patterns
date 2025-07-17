@@ -1,4 +1,4 @@
-# Consumer-Segmentation-based-on-Spending-Patterns
+# Data Analysis Project : Consumer-Segmentation-based-on-Spending-Patterns
 
 
 **CONCLUSION**
