@@ -8,7 +8,7 @@ Count of Males and Females based on Gender (Out of 11239):
  Females = 7832
  
 **Average information** :---
-*** *Based on Gender*** : On an average females spend more amount than males, accounting to Rs.9491.30 by Females and Rs.9366.67 by Males.
+***Based on Gender*** : On an average females spend more amount than males, accounting to Rs.9491.30 by Females and Rs.9366.67 by Males.
 
 *** *Based on age Group*** : People between the age group 51-55 spend more money compared to other age group people. Second highest mean value is seen between the age group 36-45.
 
